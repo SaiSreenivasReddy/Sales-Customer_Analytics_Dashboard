@@ -1,4 +1,4 @@
-# Sales_Customer_Analytics_Dashboard
+# Sales-Customer_Analytics_Dashboard
 
 ## Project Overview
 This Tableau project contains **two dashboards** - **Sales Dashboard** and **Customer Dashboard** - designed to provide stakeholders, including sales managers, executives, and marketing teams, with actionable insights on sales performance and customer behaviour. The dashboards help analyse historical trends, identify key drivers of revenue and profit, and highlight top-performing products and customers.
